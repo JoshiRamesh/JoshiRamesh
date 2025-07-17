@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi there! I'm Ramesh Joshi
 
-<!--
-**JoshiRamesh/JoshiRamesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a passionate **Cyber Security & Forensics MSc graduate** with a solid foundation in **Computer Science**.  
+💻 I have experience working as a **Network Administrator** and **Web Designer**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 What I’m Currently Up To
+
+- 🛡️ Diving deeper into **Cybersecurity**, **SOC analysis**, and **threat detection**
+- 🧪 Practicing hands-on skills on **TryHackMe**
+- 🛠️ Exploring tools like **Wireshark**, **Kali Linux**, and **SIEM platforms**
+- 📚 Studying for the **CompTIA Security+** certification
+
+---
+
+### 🤝 Let’s Collaborate
+
+I'm open to working on:
+- Cybersecurity challenges and research
+- SOC simulations or incident response projects
+- IT infrastructure or network security-related work
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 [rameshjoci84@gmail.com]
+- 💼 [https://www.linkedin.com/in/ramesh-joshi-7472aa256/]
+- 📷 [https://www.instagram.com/rameshjoci?igsh=MmdjZXdiMzFjdmlu&utm_source=qr]
+- 📺 [https://www.youtube.com/@rjtechnology2421]
+- 
+
+---
+
+### 💡 Fun Fact
+
+I believe cybersecurity is not just about defense—it's about curiosity, persistence, and staying one step ahead! 🚀
+
+---
+
+Thanks for visiting my profile! 😊
