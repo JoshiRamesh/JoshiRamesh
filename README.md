@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Ramesh Joshi
 
 🎓 I'm a passionate **Cyber Security & Forensics MSc graduate** with a solid foundation in **Computer Science**.  
-💻 I have experience working as a **Network Administrator** and **Web Designer**.
+💻 I have experience working as a **Desktop support officer** and **Web Designer**.
 
 ---
 
