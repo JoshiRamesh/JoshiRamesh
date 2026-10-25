@@ -29,6 +29,7 @@ I'm open to working on:
 - 💼 [https://www.linkedin.com/in/ramesh-joshi-7472aa256/]
 - 📷 [https://www.instagram.com/rameshjoci?igsh=MmdjZXdiMzFjdmlu&utm_source=qr]
 - 📺 [https://www.youtube.com/@rjtechnology2421]
+-  https://ramesh-joshi.com.np/
 - 
 
 ---
